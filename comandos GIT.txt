@@ -1,0 +1,8 @@
+
+ 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M principal 
+git remote add origin https://github.com/anabenedita/Aula2_Versionamento_Ana.git
+ git push - sua origem principal
